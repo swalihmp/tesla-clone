@@ -60,6 +60,12 @@ li{
     width: 19rem !important;
 }
 
+
+.datalist1{
+    margin-left: -2rem !important;
+}
+
+
 section {
     height: 100vh;
     background-size: cover;
